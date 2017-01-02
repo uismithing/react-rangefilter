@@ -1,0 +1,22 @@
+{
+  "name": "rangefilter",
+  "version": "1.0.0",
+  "description": "A React component for filtering linearly displayed data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uismithing/react-rangefilter.git"
+  },
+  "keywords": [
+    "react",
+    "rangefilter",
+    "react-rangefilter",
+    "component"
+  ],
+  "author": "uismithing|alex zubko <inquiries@uismithing.com> (http://www.uismithing.com)",
+  "license": "MIT",
+  "homepage": "https://github.com/uismithing/react-rangefilter#readme"
+}
