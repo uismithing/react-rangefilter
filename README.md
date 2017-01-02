@@ -10,7 +10,7 @@ See the demo at [http://www.uismithing.com/main/rangefilter](http://www.uismithi
 
 ### Install
 
-`not yet indexed with npm`
+`npm install react-rangefilter --save`
 
 ### Features
   * Full React/Flux pattern
