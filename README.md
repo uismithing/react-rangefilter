@@ -19,7 +19,7 @@ See the demo at [http://www.uismithing.com/main/rangefilter](http://www.uismithi
 `npm install react-rangefilter -s`
 
 ### Deploy
-`import Rangefilter from "../rangefilter"`
+`import Rangefilter from "react-rangefilter"`
 
 `<Rangefilter {...props}/>`
 
