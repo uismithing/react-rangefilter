@@ -20,7 +20,7 @@ See the demo at [http://www.uismithing.com/main/rangefilter](http://www.uismithi
   * CSS Rich
 
 ### Deploy
-`import Rangefilter from "rangefilter"`
+`import Rangefilter from "../rangefilter"`
 
 `<Rangefilter {...props}/>`
 
