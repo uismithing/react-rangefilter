@@ -16,7 +16,7 @@ See the demo at [http://www.uismithing.com/main/rangefilter](http://www.uismithi
 [https://github.com/uismithing/react-rangefilter](https://github.com/uismithing/react-rangefilter)
 
 ### Install
-`npm install react-rangefilter --save`
+`npm install react-rangefilter -s`
 
 ### Deploy
 `import Rangefilter from "../rangefilter"`
