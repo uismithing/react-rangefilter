@@ -1,8 +1,8 @@
 {
   "name": "react-rangefilter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React component for filtering linearly displayed data.",
-  "main": "index.js",
+  "main": "react-rangefilter.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
