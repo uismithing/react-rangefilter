@@ -1,6 +1,6 @@
 {
-  "name": "rangefilter",
-  "version": "1.0.2",
+  "name": "react-rangefilter",
+  "version": "1.0.0",
   "description": "A React component for filtering linearly displayed data.",
   "main": "index.js",
   "scripts": {
