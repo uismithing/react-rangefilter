@@ -1,25 +1,31 @@
 {
   "name": "react-rangefilter",
-  "version": "1.0.36",
-  "description": "A React component for filtering linearly displayed data by range.",
+  "version": "1.0.37",
+  "description": "A React component to filter linearly displayed data bounded by a range.",
   "main": "react-rangefilter.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepublish": "babel --plugins transform-es2015-modules-umd src --ignore __tests__ --out-dir ./dist"
   },
   "repository": {
-    "type": "",
-    "url": ""
+    "type": "GitHub",
+    "url": "https://github.com/uismithing/react-rangefilter"
   },
   "keywords": [
     "react",
+    "component",
     "rangefilter",
+    "range-filter",
     "react-rangefilter",
-    "component"
+    "react-range-filter",
+    "react-rangefilter-component",
+    "rangefilter-component",
+    "npm-react-rangefilter",
+    "npm-component"
   ],
   "author": "uismithing|alexzubko <inquiries@uismithing.com> (http://www.uismithing.com)",
   "license": "MIT",
-  "homepage": "",
+  "homepage": "http://www.uismithing.com",
   "peerDependencies": {
     "react": "~0.14.8 || ^15.0.0",
     "react-dom": "~0.14.8 || ^15.0.0"
